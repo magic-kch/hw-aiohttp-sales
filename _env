@@ -1,0 +1,5 @@
+POSTGRES_USER=admin
+POSTGRES_PASSWORD=Ckj;ysq_gfhjkm_2024
+POSTGRES_DB=hw-aiohttp-sales-app
+POSTGRES_HOST=localhost
+POSTGRES_PORT=5431
